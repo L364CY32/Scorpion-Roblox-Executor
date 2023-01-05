@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scorpion Executor", "Scorpion Executor.csproj", "{89B8EE59-629E-4580-AE4A-DE3D3EE29D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B8EE59-629E-4580-AE4A-DE3D3EE29D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B8EE59-629E-4580-AE4A-DE3D3EE29D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B8EE59-629E-4580-AE4A-DE3D3EE29D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B8EE59-629E-4580-AE4A-DE3D3EE29D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C1782E-DD27-412A-9AFC-75E45330C321}
+	EndGlobalSection
+EndGlobal
